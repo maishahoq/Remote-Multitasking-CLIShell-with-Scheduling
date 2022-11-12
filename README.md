@@ -14,4 +14,4 @@ This remote CLI shell simulates some services of the OS including the current Li
 4. multithreading
 5. scheduling and synchronization
 
-In your project, my teammate and I created a fully functional remote shell including our own time-based scheduler.
+In this project, my teammate and I created a fully functional remote shell including our own time-based scheduler.
